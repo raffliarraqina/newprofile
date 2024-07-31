@@ -283,6 +283,7 @@ nav ul li a:hover {
   border-radius: var(--itemBorderRadius);
   overflow: hidden; /* supaya gambar yang diatas itu dia ngikut border radiusnya, karena yang dikasih border radius disini adalah div portfolio ini */
   border: 1px solid var(--borderColor);
+  margin-bottom: 3rem;
 }
 
 .portfolio-cover {
